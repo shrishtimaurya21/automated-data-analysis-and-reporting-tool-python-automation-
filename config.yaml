@@ -1,0 +1,3 @@
+data_path: "data/orders.csv"
+chart_path: "reports/yearly_sales.png"
+report_path: "reports/retail_analysis_report.xlsx"
